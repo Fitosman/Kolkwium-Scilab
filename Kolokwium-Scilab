@@ -15,6 +15,8 @@ for n = 1:40
     sum = sum + (n - 3)/(n^3);
 end
 disp(sum)
+
+
 zad 2)
 x = linspace(0,2,100);
 y1=cos(2*x);
@@ -25,6 +27,8 @@ xlabel('Oś X')
 ylabel('Oś Y')
 title('Tytuł Wykresu')
 xgrid
+
+
 zad 3)
 Złote = [4,2,3];
 Srebrne=[ 2, 0, 4];
